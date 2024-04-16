@@ -1,0 +1,71 @@
+    body
+    {
+        font-family: Arial;
+        padding: 0;
+        margin: 0;
+    }
+    header, footer
+    {
+        background-color: #333;
+        color: #fff;
+        padding: 10px;
+    }
+    nav
+    {
+        background-color: #444;
+        color: #fff;
+        padding: 10px;
+        text-align: center;
+    }
+    nav ul
+    {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    nav ul li 
+    {
+        display: inline;
+        margin-right: 20px;
+    }
+    nav ul li a
+    {
+        color: #fff;
+        text-decoration: none;
+    }
+    #fContato
+    {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+    #fContato :first-child
+    {
+        margin-top: 30px;
+    }
+    #fContato :last-child
+    {
+        margin-bottom: 30px;
+    }
+    #fContato li
+    {  
+        margin-left: 256px;
+        margin-top: 10px;
+        display: block;
+    }
+    #nomeC
+    {
+        padding: 5px 300px;
+    }
+    #email
+    {
+        padding: 5px 300px;
+    }
+    #numC
+    {
+        padding: 5px 300px;
+    }
+    #msg
+    {
+        padding: 100px 300px;
+    }
