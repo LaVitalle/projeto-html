@@ -36,22 +36,15 @@
     #fContato
     {
         list-style-type: none;
-        padding: 0;
-        margin: 0;
-    }
-    #fContato :first-child
-    {
-        margin-top: 30px;
+        justify-content: center;
+        align-items: center;
+        padding-right: 400px;
+        padding-left: 400px;
+        padding-top: 50px;
     }
     #fContato :last-child
     {
-        margin-bottom: 30px;
-    }
-    #fContato li
-    {  
-        margin-left: 256px;
-        margin-top: 10px;
-        display: block;
+        margin-bottom: 50px;
     }
     #nomeC
     {
