@@ -62,3 +62,15 @@
     {
         padding: 100px 300px;
     }
+    
+    .entry, .form-contact textarea 
+    {
+        display: block;
+        margin: 0 auto 25px;
+        padding: 4px 9px;
+        font-size: 18px;
+        width: 50%;
+        box-sizing: border-box;
+        resize: none;
+        overflow: auto;
+    }
